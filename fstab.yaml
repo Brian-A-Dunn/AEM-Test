@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1euTaZa-_YldBtH-0rp0h_1xIVM-CvAbh?usp=drive_link
+  /: mountpoints:
+  /:
+    url: https://content.da.live/Brian-A-Dunn/AEM-Test/
+    type: markup
