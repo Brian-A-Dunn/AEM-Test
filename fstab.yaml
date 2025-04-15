@@ -1,5 +1,4 @@
 mountpoints:
-  /: mountpoints:
   /:
     url: https://content.da.live/Brian-A-Dunn/AEM-Test/
     type: markup
